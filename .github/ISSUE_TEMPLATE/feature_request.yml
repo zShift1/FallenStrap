@@ -1,0 +1,27 @@
+name: Solicitud de función
+description: Una idea para mejorar FallenStrap
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Contanos tu idea. Cuanto más concreto, mejor.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Qué problema resuelve
+      description: Qué te falta o qué te molesta hoy.
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Cómo lo imaginás
+      description: Comportamiento, pantalla, opciones. Capturas o mockups suman.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternativas
+      description: Otras soluciones que consideraste (opcional).
