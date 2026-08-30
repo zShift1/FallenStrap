@@ -64,8 +64,7 @@ namespace FallenStrap
             }
             catch (Exception)
             {
-                // temporary diagnostic log for the issue described here:
-                // https://github.com/bloxstraplabs/bloxstrap/issues/3193
+                // temporary diagnostic log for an upgrade-only version comparison issue;
                 // the problem is that this happens only on upgrade, so my only hope of catching this is bug reports following the next release
 
                 App.Logger.WriteLine("Utilities::CompareVersions", "An exception occurred when comparing versions");

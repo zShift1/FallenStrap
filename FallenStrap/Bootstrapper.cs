@@ -153,7 +153,6 @@ namespace FallenStrap
             if (exception is AggregateException)
                 exception = exception.InnerException!;
 
-            // https://gist.github.com/pizzaboxer/4b58303589ee5b14cc64397460a8f386
             if (exception is HttpRequestException && exception.InnerException is null)
                 message = String.Format(Strings.Dialog_Connectivity_RobloxDown, "[status.roblox.com](https://status.roblox.com)");
 
