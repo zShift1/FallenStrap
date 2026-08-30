@@ -3,9 +3,6 @@ namespace FallenStrap.Integrations
     public class ActivityWatcher : IDisposable
     {
         private const string GameMessageEntry                = "[FLog::CreatorOutput] [FallenStrapRPC]";
-        // the pre-renamed tag is still written by clients patched with the upstream script,
-        // so accept it alongside the current one for backwards compatibility
-        private const string GameMessageEntryLegacy           = "[FLog::CreatorOutput] [BloxstrapRPC]";
         private const string GameJoiningEntry                = "[FLog::Output] ! Joining game";
 
         // these entries are technically volatile!
@@ -26,7 +23,6 @@ namespace FallenStrap.Integrations
         private const string GameJoiningUDMUXPattern         = @"UDMUX Address = ([0-9\.]+), Port = [0-9]+ \| RCC Server Address = ([0-9\.]+), Port = [0-9]+";
         private const string GameJoinedEntryPattern          = @"serverId: ([0-9\.]+)\|[0-9]+";
         private const string GameMessageEntryPattern         = @"\[FallenStrapRPC\] (.*)";
-        private const string GameMessageEntryPatternLegacy    = @"\[BloxstrapRPC\] (.*)";
 
         private int _logEntriesRead = 0;
         private bool _teleportMarker = false;
@@ -310,10 +306,6 @@ namespace FallenStrap.Integrations
                 else if (logMessage.StartsWith(GameMessageEntry))
                 {
                     ProcessRPCMessageEntry(logMessage, new Regex(GameMessageEntryPattern), LOG_IDENT);
-                }
-                else if (logMessage.StartsWith(GameMessageEntryLegacy))
-                {
-                    ProcessRPCMessageEntry(logMessage, new Regex(GameMessageEntryPatternLegacy), LOG_IDENT);
                 }
             }
         }

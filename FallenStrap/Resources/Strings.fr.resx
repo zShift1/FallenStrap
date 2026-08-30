@@ -1013,13 +1013,6 @@ Cela peut être un problème de FallenStrap. Pour le savoir, consultez [cette pa
   <data name="Common.Loading" xml:space="preserve">
     <value>Chargement, veuillez patienter...</value>
   </data>
-  <data name="About.Supporters.Title" xml:space="preserve">
-    <value>Supporters</value>
-  </data>
-  <data name="About.Supporters.Description" xml:space="preserve">
-    <value>Voici les personnes qui ont soutenu FallenStrap via Ko-fi. Un énorme merci à tous ceux présents ici ! 
-Chaque personne ici est classée selon son engagement global.</value>
-  </data>
   <data name="JsonManager.SettingsLoadFailed" xml:space="preserve">
     <value>Vos paramètres n'ont pas pu être chargés. Ils ont été réinitialisés.</value>
   </data>
@@ -1087,12 +1080,6 @@ Veuillez supprimer manuellement FallenStrap.exe de l'emplacement d'installation 
   </data>
   <data name="Dialog.RegistryWriteError" xml:space="preserve">
     <value>FallenStrap n'est pas en mesure d'écrire dans le registre Windows. Un antivirus interfère probablement et cause des problèmes. Veuillez vérifier qu'il n'y a rien qui restreigne le fonctionnement de FallenStrap.</value>
-  </data>
-  <data name="About.Supporters.Monthly" xml:space="preserve">
-    <value>Mensuel</value>
-  </data>
-  <data name="About.Supporters.OneOff" xml:space="preserve">
-    <value>Unique</value>
   </data>
   <data name="Menu.FallenStrap.Description" xml:space="preserve">
     <value>Configurer les options liées au comportement de FallenStrap lui-même.</value>

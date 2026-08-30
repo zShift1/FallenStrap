@@ -1,0 +1,7 @@
+<FallenStrapCustomBootstrapper Version="1" Height="320" Width="500">
+	<Button Name="CancelButton" HorizontalAlignment="Center" Height="100" Width="100">
+		<Button.Content>
+			<Image Source="theme://tenor.gif" IsAnimated="True" Stretch="Fill" />
+		</Button.Content>
+	</Button>
+</FallenStrapCustomBootstrapper>

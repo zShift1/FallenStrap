@@ -1014,13 +1014,6 @@ FallenStrap 安裝位置為「{1}」。</value>
   <data name="Common.Loading" xml:space="preserve">
     <value>正在載入，請稍等...</value>
   </data>
-  <data name="About.Supporters.Title" xml:space="preserve">
-    <value>贊助者</value>
-  </data>
-  <data name="About.Supporters.Description" xml:space="preserve">
-    <value>這些是使用 Ko-fi 來支持 FallenStrap 的贊助者們；在此由衷感謝每一個協助 FallenStrap 發展的贊助者們！
-（在此處的人都按其總捐款額來排名）</value>
-  </data>
   <data name="JsonManager.SettingsLoadFailed" xml:space="preserve">
     <value>無法載入您的設置 。它們已被重設為默認設置。</value>
   </data>
@@ -1089,12 +1082,6 @@ FallenStrap 安裝位置為「{1}」。</value>
   </data>
   <data name="Dialog.RegistryWriteError" xml:space="preserve">
     <value>FallenStrap 無法寫入 Windows 登錄檔。可能是防毒軟體干擾並導致問題。請檢查並確保沒有任何限制 FallenStrap 操作的應用程式。</value>
-  </data>
-  <data name="About.Supporters.Monthly" xml:space="preserve">
-    <value>每月</value>
-  </data>
-  <data name="About.Supporters.OneOff" xml:space="preserve">
-    <value>一次性</value>
   </data>
   <data name="Menu.FallenStrap.Description" xml:space="preserve">
     <value>調整 FallenStrap 自身行為相關的選項。</value>

@@ -1013,13 +1013,6 @@ Dit kan mogelijk een FallenStrap probleem zijn. Zie [deze helppagina]({0}).</val
   <data name="Common.Loading" xml:space="preserve">
     <value>Bezig met laden, even wachten...</value>
   </data>
-  <data name="About.Supporters.Title" xml:space="preserve">
-    <value>Supporters</value>
-  </data>
-  <data name="About.Supporters.Description" xml:space="preserve">
-    <value>Dit zijn de mensen die FallenStrap hebben ondersteund via Ko-fi. Een enorme dank aan iedereen hier!
-Elke persoon hier is gerangschikt op basis van hun totale bijdrage.</value>
-  </data>
   <data name="JsonManager.SettingsLoadFailed" xml:space="preserve">
     <value>Uw instellingen konden niet geladen worden. Ze zijn teruggezet naar de standaardinstellingen.</value>
   </data>
@@ -1087,12 +1080,6 @@ Verwijder handmatig FallenStrap.EXE van de installatielocatie of probeer je syst
   </data>
   <data name="Dialog.RegistryWriteError" xml:space="preserve">
     <value>FallenStrap kan niet naar het Windows-register schrijven. Een antivirus programma kan mogelijk storen en problemen veroorzaken. Controleer of er niet iets is dat de FallenStrap werking zou beperken.</value>
-  </data>
-  <data name="About.Supporters.Monthly" xml:space="preserve">
-    <value>Maandelijks</value>
-  </data>
-  <data name="About.Supporters.OneOff" xml:space="preserve">
-    <value>Eenmalig</value>
   </data>
   <data name="Menu.FallenStrap.Description" xml:space="preserve">
     <value>Configureer opties gerelateerd aan het gedrag van FallenStrap zelf.</value>

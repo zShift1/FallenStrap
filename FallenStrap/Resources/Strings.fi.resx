@@ -1014,13 +1014,6 @@ Tämä saattaa olla FallenStrap-ongelma. Selvittääksesi, katso [tämä ohjesiv
   <data name="Common.Loading" xml:space="preserve">
     <value>Ladataan, odota hetki...</value>
   </data>
-  <data name="About.Supporters.Title" xml:space="preserve">
-    <value>Tukijat</value>
-  </data>
-  <data name="About.Supporters.Description" xml:space="preserve">
-    <value>Nämä henkilöt ovat tukeneet FallenStrapia Ko-fin kautta. Suuret kiitokset kaikille, ketkä olevat tässä!
-Jokainen henkilö tässä on sijoitettu kokonaislahjoituksensa mukaisesti.</value>
-  </data>
   <data name="JsonManager.SettingsLoadFailed" xml:space="preserve">
     <value>Asetuksiasi ei voitu ladata. Ne on palatutettu oletuksiin.</value>
   </data>
@@ -1088,12 +1081,6 @@ Ole hyvä ja poista FallenStrap.exe manuaalisesti asennussijainnista tai käynni
   </data>
   <data name="Dialog.RegistryWriteError" xml:space="preserve">
     <value>FallenStrap ei pysty kirjoittamaan Windowsin rekisteriin. Antivirusohjelma todennäköisesti häiritsee ja aiheuttaa ongelmia. Ole hyvä ja tarkista, ettei ole mitään, joka rajoittaisi FallenStrapin toimintaa.</value>
-  </data>
-  <data name="About.Supporters.Monthly" xml:space="preserve">
-    <value>Kuukausittainen</value>
-  </data>
-  <data name="About.Supporters.OneOff" xml:space="preserve">
-    <value>Kertamaksu</value>
   </data>
   <data name="Menu.FallenStrap.Description" xml:space="preserve">
     <value>Määritä FallenStrapin käyttäytymiseen liittyviä asetuksia.</value>

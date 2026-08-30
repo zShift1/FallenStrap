@@ -1016,13 +1016,6 @@ Bạn có muốn tiếp tục không?</value>
   <data name="Common.Loading" xml:space="preserve">
     <value>Đang tải, xin vui lòng chờ...</value>
   </data>
-  <data name="About.Supporters.Title" xml:space="preserve">
-    <value>Những người hỗ trợ</value>
-  </data>
-  <data name="About.Supporters.Description" xml:space="preserve">
-    <value>Đây là những người đã hỗ trợ FallenStrap qua Ko-fi. Một lời cảm ơn tới tất cả mọi người ở đây!
-Thứ hạng của mỗi người ở đây dựa vào mức đóng góp của họ.</value>
-  </data>
   <data name="JsonManager.SettingsLoadFailed" xml:space="preserve">
     <value>Không thể tải những Cài Đặt của bạn. Chúng đã được đặt lại về cấu hình mặc định.</value>
   </data>
@@ -1090,12 +1083,6 @@ Vui lòng xóa thủ công FallenStrap.exe khỏi vị trí cài đặt hoặc t
   </data>
   <data name="Dialog.RegistryWriteError" xml:space="preserve">
     <value>FallenStrap không thể ghi vào Registry của Windows. Có thể một phần mềm diệt virus đang can thiệp và gây ra vấn đề. Vui lòng kiểm tra để đảm bảo không có gì làm ảnh hưởng FallenStrap.</value>
-  </data>
-  <data name="About.Supporters.Monthly" xml:space="preserve">
-    <value>Hàng tháng</value>
-  </data>
-  <data name="About.Supporters.OneOff" xml:space="preserve">
-    <value>Một lần</value>
   </data>
   <data name="Menu.FallenStrap.Description" xml:space="preserve">
     <value>Tùy chỉnh những lựa chọn liên quan tới cách hoạt động của FallenStrap.</value>

@@ -1014,13 +1014,6 @@ Aceasta poate fi sau nu o problemă cu FallenStrap. Pentru a afla, vezi [aceast�
   <data name="Common.Loading" xml:space="preserve">
     <value>Se încarcă, vă rugăm să așteptați...</value>
   </data>
-  <data name="About.Supporters.Title" xml:space="preserve">
-    <value>Susținători</value>
-  </data>
-  <data name="About.Supporters.Description" xml:space="preserve">
-    <value>Acestea sunt persoanele care au susținut FallenStrap prin Ko-fi. Un mare mulțumesc tuturor celor de aici!  
-Fiecare persoană este clasată în funcție de contribuția totală.</value>
-  </data>
   <data name="JsonManager.SettingsLoadFailed" xml:space="preserve">
     <value>Setările tale nu au putut fi încărcate. Acestea au fost restabilite la configurația implicită.</value>
   </data>
@@ -1088,12 +1081,6 @@ Vă rugăm să ștergeți manual FallenStrap.exe din locația de instalare sau s
   </data>
   <data name="Dialog.RegistryWriteError" xml:space="preserve">
     <value>FallenStrap nu poate scrie în Registrul Windows. Un antivirus probabil interferă și cauzează probleme. Vă rugăm să verificați pentru a vă asigura că nu există nimic care să restricționeze funcționarea FallenStrap.</value>
-  </data>
-  <data name="About.Supporters.Monthly" xml:space="preserve">
-    <value>Lunar</value>
-  </data>
-  <data name="About.Supporters.OneOff" xml:space="preserve">
-    <value>Unic</value>
   </data>
   <data name="Menu.FallenStrap.Description" xml:space="preserve">
     <value>Configurați opțiunile legate de comportamentul FallenStrap-ului.</value>

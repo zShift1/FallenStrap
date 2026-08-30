@@ -1016,13 +1016,6 @@ Vai jūs esat drošs, ka vēlaties turpināt?</value>
   <data name="Common.Loading" xml:space="preserve">
     <value>Ielādē, lūdzu uzgaidiet...</value>
   </data>
-  <data name="About.Supporters.Title" xml:space="preserve">
-    <value>Atbalstītāji</value>
-  </data>
-  <data name="About.Supporters.Description" xml:space="preserve">
-    <value>Šie ir tie cilvēki, kas ir atbalstījuši FallenStrap caur Ko-fi. Milzīgs paldies visiem šeit!
-Katrs cilvēks ir sarindots pēc viņu atbalsta.</value>
-  </data>
   <data name="JsonManager.SettingsLoadFailed" xml:space="preserve">
     <value>Jūsu Iestatījumi nevāreja tikt ielādēti. Tie ir atiestatīti uz noklusējuma konfigurāciju.</value>
   </data>
@@ -1089,12 +1082,6 @@ Lūdzu manuāli dzēsiet FallenStrap.exe no instalēšanas vietas, vai pamēģin
   </data>
   <data name="Dialog.RegistryWriteError" xml:space="preserve">
     <value>FallenStrap nespēj rakstīt iekš Windows Registry. Visticamāk, antivīruss iejaucas un rada problēmas. Lūdzu pārbaudiet, vai nav nekas, kas varētu traucēt FallenStrap darbībām.</value>
-  </data>
-  <data name="About.Supporters.Monthly" xml:space="preserve">
-    <value>Ikmēneša</value>
-  </data>
-  <data name="About.Supporters.OneOff" xml:space="preserve">
-    <value>Vienreizēji</value>
   </data>
   <data name="Menu.FallenStrap.Description" xml:space="preserve">
     <value>Konfigurē opcijas saistītas ar paša FallenStrap uzvedību.</value>

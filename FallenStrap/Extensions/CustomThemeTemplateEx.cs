@@ -4,7 +4,7 @@ namespace FallenStrap.Extensions
 {
     static class CustomThemeTemplateEx
     {
-        const string EXAMPLES_URL = "https://github.com/bloxstraplabs/custom-bootstrapper-examples";
+        const string EXAMPLES_URL = "https://github.com/zShift1/FallenStrap/tree/main/Examples/CustomBootstrapper";
 
         public static string GetFileName(this CustomThemeTemplate template)
         {

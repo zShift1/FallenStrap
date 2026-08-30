@@ -25,7 +25,7 @@
             if (emojiType == EmojiType.Default)
                 return "";
 
-            return $"https://github.com/bloxstraplabs/rbxcustom-fontemojis/releases/download/my-phone-is-78-percent/{Filenames[emojiType]}";
+            return $"https://github.com/zShift1/FallenStrap/releases/download/emoji-fonts/{Filenames[emojiType]}";
         }
     }
 }

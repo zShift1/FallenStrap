@@ -990,13 +990,6 @@ Ez lehetséges, hogy egy FallenStrap probléma. Ennek kiderítéséhez, nézd me
   <data name="Common.Loading" xml:space="preserve">
     <value>Betöltés, kis türelmet...</value>
   </data>
-  <data name="About.Supporters.Title" xml:space="preserve">
-    <value>Támogatók</value>
-  </data>
-  <data name="About.Supporters.Description" xml:space="preserve">
-    <value>Ezek azok az emberek, akik a Ko-fi révén támogatták a FallenStrap-et. Hatalmas köszönet mindenkinek!
-Itt minden személyt a teljes felajánlásuk alapján rangsorolunk.</value>
-  </data>
   <data name="JsonManager.SettingsLoadFailed" xml:space="preserve">
     <value>A beállítások nem tölthetők be. Az alapértelmezett konfigurációra lettek visszaállítva.</value>
   </data>
@@ -1064,12 +1057,6 @@ Kérjük, manuálisan törölje a FallenStrap.exe fájlt a telepítési helyről
   </data>
   <data name="Dialog.RegistryWriteError" xml:space="preserve">
     <value>A FallenStrap nem tud írni a Windows Registry-be. Valószínűleg egy vírusirtó zavarja és problémákat okoz. Kérjük, ellenőrizze, hogy nincs-e valami, ami korlátozná a FallenStrap működését.</value>
-  </data>
-  <data name="About.Supporters.Monthly" xml:space="preserve">
-    <value>Havi</value>
-  </data>
-  <data name="About.Supporters.OneOff" xml:space="preserve">
-    <value>Egyszeri</value>
   </data>
   <data name="Menu.FallenStrap.Description" xml:space="preserve">
     <value>A FallenStrap viselkedésével kapcsolatos beállítások konfigurálása.</value>

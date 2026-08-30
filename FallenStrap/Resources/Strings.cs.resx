@@ -1014,13 +1014,6 @@ Může, ale nemusí se jednat o problém s FallenStrapem. Pro zjištění navšt
   <data name="Common.Loading" xml:space="preserve">
     <value>Načítání, počkejte prosím...</value>
   </data>
-  <data name="About.Supporters.Title" xml:space="preserve">
-    <value>Podporovatelé</value>
-  </data>
-  <data name="About.Supporters.Description" xml:space="preserve">
-    <value>Tohle jsou lidé, kteří podpořili FallenStrap skrz Ko-fi. Velký dík všem zde!
-Každá osoba je zařazena podle celkového závazku.</value>
-  </data>
   <data name="JsonManager.SettingsLoadFailed" xml:space="preserve">
     <value>Nezdařilo se načíst vaše nastavení. Byly obnoveny na výchozí konfiguraci.</value>
   </data>
@@ -1088,12 +1081,6 @@ Prosím manuálně smažte FallenStrap.exe z instalačního místa nebo zkuste r
   </data>
   <data name="Dialog.RegistryWriteError" xml:space="preserve">
     <value>FallenStrap není schopen zapisovat do registru Windows. Antivirus pravděpodobně zasahuje a způsobuje problémy. Prosím zkontrolujte, zda nemáte nic, co by omezilo funkci FallenStrapu.</value>
-  </data>
-  <data name="About.Supporters.Monthly" xml:space="preserve">
-    <value>Měsíčně</value>
-  </data>
-  <data name="About.Supporters.OneOff" xml:space="preserve">
-    <value>Jednorázově</value>
   </data>
   <data name="Menu.FallenStrap.Description" xml:space="preserve">
     <value>Konfigurace možností souvisejících se samotným chováním FallenStrapu.</value>

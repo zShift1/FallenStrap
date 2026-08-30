@@ -1014,13 +1014,6 @@ Questo potrebbe non essere un problema FallenStrap. Per scoprire, vedi [questa p
   <data name="Common.Loading" xml:space="preserve">
     <value>Caricamento, aspetta per favore...</value>
   </data>
-  <data name="About.Supporters.Title" xml:space="preserve">
-    <value>Sostenitori</value>
-  </data>
-  <data name="About.Supporters.Description" xml:space="preserve">
-    <value>Queste sono le persone che hanno supportato FallenStrap attraverso Ko-fi. Un enorme ringraziamento a tutti qui!
-Ogni persona qui è classificato dal loro impegno generale.</value>
-  </data>
   <data name="JsonManager.SettingsLoadFailed" xml:space="preserve">
     <value>Le tue impostazioni non posso essere caricate. Verranno ripristinate alle configurazioni predefinite.</value>
   </data>
@@ -1089,12 +1082,6 @@ Per favore elimina manualmente FallenStrap.exe dalla posizione d'installazione o
   <data name="Dialog.RegistryWriteError" xml:space="preserve">
     <value>FallenStrap non è in grado di scrivere nel Registro di Windows. Probabilmente un antivirus sta interferendo e causando problemi.
 Assicurati che non ci sia nulla che possa limitare le operazioni di FallenStrap.</value>
-  </data>
-  <data name="About.Supporters.Monthly" xml:space="preserve">
-    <value>Mensilmente</value>
-  </data>
-  <data name="About.Supporters.OneOff" xml:space="preserve">
-    <value>Una volta</value>
   </data>
   <data name="Menu.FallenStrap.Description" xml:space="preserve">
     <value>Configura le opzioni a riguardo del comportamento di FallenStrap.</value>

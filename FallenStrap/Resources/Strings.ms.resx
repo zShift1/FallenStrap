@@ -980,13 +980,6 @@ Apa yang anda ingin lakukan?</value>
   <data name="Common.Loading" xml:space="preserve">
     <value>Memuat, sila tunggu...</value>
   </data>
-  <data name="About.Supporters.Title" xml:space="preserve">
-    <value>Sokongan</value>
-  </data>
-  <data name="About.Supporters.Description" xml:space="preserve">
-    <value>Ini adalah individu yang telah menyokong FallenStrap melalui Ko-fi. Terima kasih yang tidak terhingga kepada semua di sini!
-Setiap yang disenaraikan disini adalah mengikut jumlah sumbangan keseluruhan mereka.</value>
-  </data>
   <data name="JsonManager.SettingsLoadFailed" xml:space="preserve">
     <value>Terdapat masalah dalam memuat tetapan anda. Ia telah di set semula kepada konfigurasi asal.</value>
   </data>
@@ -1052,12 +1045,6 @@ Sila buang fail FallenStrap.exe secara manual dari lokasi pemasangan atau cuba m
   </data>
   <data name="Dialog.RegistryWriteError" xml:space="preserve">
     <value>FallenStrap tidak dapat menulis ke Windows Registry, berkemungkinan antivirus sedang mengganggu dan menyebabkan masalah. Sila semak dan pastikan tiada apa-apa yang menghalang operasi FallenStrap.</value>
-  </data>
-  <data name="About.Supporters.Monthly" xml:space="preserve">
-    <value>Bulanan</value>
-  </data>
-  <data name="About.Supporters.OneOff" xml:space="preserve">
-    <value>Sumbangan sekali</value>
   </data>
   <data name="Menu.FallenStrap.Description" xml:space="preserve">
     <value>Konfigurasi opsyen yang berkaitan dengan tingkah laku FallenStrap itu sendiri.</value>

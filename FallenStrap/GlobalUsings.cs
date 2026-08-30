@@ -17,7 +17,6 @@ global using FallenStrap.Enums;
 global using FallenStrap.Exceptions;
 global using FallenStrap.Extensions;
 global using FallenStrap.Models;
-global using FallenStrap.Models.APIs.Config;
 global using FallenStrap.Models.APIs.GitHub;
 global using FallenStrap.Models.APIs.Roblox;
 global using FallenStrap.Models.Attributes;

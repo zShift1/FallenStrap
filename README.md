@@ -81,7 +81,6 @@ FallenStrap es software libre bajo la licencia **MIT**.
 
 ## 🙏 Agradecimientos
 
-- [pizzaboxer](https://github.com/pizzaboxer), autor del proyecto original del que deriva este lanzador
 - [lepoco](https://github.com/lepoco) y [WPF UI](https://github.com/lepoco/wpfui), la librería de UI usada en este proyecto
 
 [shield-repo-license]:  https://img.shields.io/github/license/zShift1/FallenStrap?color=981bfe

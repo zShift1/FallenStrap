@@ -1014,13 +1014,6 @@ To może być problem z FallenStrapem. Aby się dowiedzieć, sprawdź [tę stron
   <data name="Common.Loading" xml:space="preserve">
     <value>Ładowanie, proszę czekać...</value>
   </data>
-  <data name="About.Supporters.Title" xml:space="preserve">
-    <value>Wspierający</value>
-  </data>
-  <data name="About.Supporters.Description" xml:space="preserve">
-    <value>To są osoby, które wspierali FallenStrap przez Ko-fi. Serdeczne podziękowania dla wszystkich wymienionych!
-Każda osoba jest tutaj uszeregowana według swojego ogólnego zobowiązania.</value>
-  </data>
   <data name="JsonManager.SettingsLoadFailed" xml:space="preserve">
     <value>Twoje ustawienia nie mogły zostać zapisane. Zostały zresetowane do domyślnej konfiguracji.</value>
   </data>
@@ -1088,12 +1081,6 @@ Prosimy ręcznie usunąć FallenStrap.exe z folderu instalacji lub spróbować p
   </data>
   <data name="Dialog.RegistryWriteError" xml:space="preserve">
     <value>FallenStrap nie jest w stanie zapisać ustawień do rejestru systemu Windows, co powoduje problemy. Sprawdź, czy nie ma czegoś (m.in. programy antywirusowe), co mogłoby ograniczać działanie FallenStrap.</value>
-  </data>
-  <data name="About.Supporters.Monthly" xml:space="preserve">
-    <value>Miesięcznie</value>
-  </data>
-  <data name="About.Supporters.OneOff" xml:space="preserve">
-    <value>Jednorazowo</value>
   </data>
   <data name="Menu.FallenStrap.Description" xml:space="preserve">
     <value>Skonfiguruj ustawienia związane z zachowaniem FallenStrap.</value>

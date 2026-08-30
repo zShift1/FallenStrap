@@ -982,13 +982,6 @@ Jeste li sigurni da želite nastaviti?</value>
   <data name="Common.Loading" xml:space="preserve">
     <value>Učitavanje, molimo vas pričekajte...</value>
   </data>
-  <data name="About.Supporters.Title" xml:space="preserve">
-    <value>Pristalice</value>
-  </data>
-  <data name="About.Supporters.Description" xml:space="preserve">
-    <value>Ovo su ljudi koji su podržali FallenStrap preko Ko-fi. Veliko hvala svima ovdje!
-Svaka osoba ovdje je rangirana prema ukupnom obećanju.</value>
-  </data>
   <data name="JsonManager.SettingsLoadFailed" xml:space="preserve">
     <value>Vaše postavke se ne mogu učitati. One su vraćene na zadanu konfiguraciju.</value>
   </data>
@@ -1056,12 +1049,6 @@ Molimo ručno izbrišite FallenStrap.exe sa lokacije za instalaciju ili pokušaj
   </data>
   <data name="Dialog.RegistryWriteError" xml:space="preserve">
     <value>FallenStrap ne može pisati u Windows Registry. Antivirus vjerovatno ometa i uzrokuje probleme. Molimo provjerite da ne postoji ništa što bi ograničilo rad FallenStrapa.</value>
-  </data>
-  <data name="About.Supporters.Monthly" xml:space="preserve">
-    <value>Mjesečno</value>
-  </data>
-  <data name="About.Supporters.OneOff" xml:space="preserve">
-    <value>Jednokratno</value>
   </data>
   <data name="Menu.FallenStrap.Description" xml:space="preserve">
     <value>Konfiguiraj opcije povezane sa samim ponašanjem FallenStrapa.</value>

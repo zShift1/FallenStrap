@@ -1012,13 +1012,6 @@
   <data name="Common.Loading" xml:space="preserve">
     <value>جاري التحميل، الرجاء الانتظار...</value>
   </data>
-  <data name="About.Supporters.Title" xml:space="preserve">
-    <value>الداعمين</value>
-  </data>
-  <data name="About.Supporters.Description" xml:space="preserve">
-    <value>هؤلاء هم الأشخاص الذين دعموا FallenStrap من خلال Ko-fi. شكرًا جزيلاً للجميع هنا!
-يتم تصنيف كل شخص هنا حسب تعهده الإجمالي.</value>
-  </data>
   <data name="JsonManager.SettingsLoadFailed" xml:space="preserve">
     <value>لا يمكن تحميل الإعدادات الخاصة بك. تم إعادة تعيينها إلى الإعدادات الأصلية.</value>
   </data>
@@ -1086,12 +1079,6 @@
   </data>
   <data name="Dialog.RegistryWriteError" xml:space="preserve">
     <value>FallenStrap غير قادر على الكتابة إلى سجل ويندوز. من المحتمل أن تتدخل مكافحة الفيروسات وتسبب مشكلات. الرجاء التحقق للتأكد من عدم وجود أي شيء من شأنه أن يقيد عملية FallenStrap.</value>
-  </data>
-  <data name="About.Supporters.Monthly" xml:space="preserve">
-    <value>شهرياً</value>
-  </data>
-  <data name="About.Supporters.OneOff" xml:space="preserve">
-    <value>مرة واحدة</value>
   </data>
   <data name="Menu.FallenStrap.Description" xml:space="preserve">
     <value>تكوين الخيارات المتعلقة بسلوك FallenStrap.</value>

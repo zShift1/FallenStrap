@@ -1009,12 +1009,6 @@ FallenStrap ถูกติดตั้งที่ "{1}"</value>
   <data name="Common.Loading" xml:space="preserve">
     <value>กำลังโหลด กรุณารอสักครู่...</value>
   </data>
-  <data name="About.Supporters.Title" xml:space="preserve">
-    <value>ผู้สนับสนุน</value>
-  </data>
-  <data name="About.Supporters.Description" xml:space="preserve">
-    <value>คนเหล่านี้คือคนที่สนับสนุน FallenStrap ผ่าน Ko-fi ขอขอบคุณทุกท่านที่อยู่ในนี้ ทุกท่านในนี้ถูกเรียงอันดับโดยยอดรวมทั้งหมดของการสนับสนุน</value>
-  </data>
   <data name="JsonManager.SettingsLoadFailed" xml:space="preserve">
     <value>ไม่สามารถโหลดการตั้งค่าของคุณได้ การตั้งค่าถูกรีเซ็ตเป็นค่าตั้งต้น</value>
   </data>
@@ -1082,12 +1076,6 @@ FallenStrap ถูกติดตั้งที่ "{1}"</value>
   </data>
   <data name="Dialog.RegistryWriteError" xml:space="preserve">
     <value>FallenStrap ไม่สามารถเขียนลงใน Windows Registry ได้ อาจมีซอฟต์เเวร์ป้องกันไวรัสที่เข้ามาขัดขวางเเละทำให้เกิดปัญหา กรุณาตรวจสอบเพื่อให้เเน่ใจว่าไม่มีอะไรที่จำกัดการทำงานของ FallenStrap</value>
-  </data>
-  <data name="About.Supporters.Monthly" xml:space="preserve">
-    <value>รายเดือน</value>
-  </data>
-  <data name="About.Supporters.OneOff" xml:space="preserve">
-    <value>ครั้งเดียว</value>
   </data>
   <data name="Menu.FallenStrap.Description" xml:space="preserve">
     <value>กำหนดค่าเกี่ยวกับตัวเลือกที่เกี่ยวข้องกับพฤติกรรมของ FallenStrap เอง</value>

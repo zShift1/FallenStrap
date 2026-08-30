@@ -982,13 +982,6 @@ Roblox ще не встановлено; це станеться, коли ви 
   <data name="Common.Loading" xml:space="preserve">
     <value>Завантаження, будь ласка, зачекайте...</value>
   </data>
-  <data name="About.Supporters.Title" xml:space="preserve">
-    <value>Підтримка</value>
-  </data>
-  <data name="About.Supporters.Description" xml:space="preserve">
-    <value>Це є люди, які підтримали FallenStrap грошима через сервіс Ko-fi. Велике вам всім дякую!
-Кожна людина тут аранжована за загальною сумою пожертв.</value>
-  </data>
   <data name="JsonManager.SettingsLoadFailed" xml:space="preserve">
     <value>Ваші налаштування не вдалося завантажити. Вони були скинуті до стандартної конфігурації.</value>
   </data>
@@ -1056,12 +1049,6 @@ Roblox ще не встановлено; це станеться, коли ви 
   </data>
   <data name="Dialog.RegistryWriteError" xml:space="preserve">
     <value>FallenStrap не може записати до реєстру Windows. Ймовірно, антивірус заважає і викликає проблеми. Будь ласка, перевірте, щоб переконатися, що немає нічого, що обмежує роботу FallenStrap.</value>
-  </data>
-  <data name="About.Supporters.Monthly" xml:space="preserve">
-    <value>Щомісячно</value>
-  </data>
-  <data name="About.Supporters.OneOff" xml:space="preserve">
-    <value>Одноразово</value>
   </data>
   <data name="Menu.FallenStrap.Description" xml:space="preserve">
     <value>Налаштуйте параметри, пов'язані з поведінкою самого FallenStrap.</value>

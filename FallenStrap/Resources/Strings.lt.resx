@@ -1014,13 +1014,6 @@ Tai gali būti arba nebūti „FallenStrap“ problema. Kad sužinotumėte, ži�
   <data name="Common.Loading" xml:space="preserve">
     <value>Įkeliama. Palaukite...</value>
   </data>
-  <data name="About.Supporters.Title" xml:space="preserve">
-    <value>Palaikytojai</value>
-  </data>
-  <data name="About.Supporters.Description" xml:space="preserve">
-    <value>Tai – žmonės, kurie palaikė „FallenStrap“ per „Ko-fi“. Didelis dėkui visiems čia esantiems!
-Kiekvienas čia esantis žmogus vertinamas pagal bendrą pažadą.</value>
-  </data>
   <data name="JsonManager.SettingsLoadFailed" xml:space="preserve">
     <value>Nepavyko įkelti nustatymų. Jie buvo atkurti į numatytąją konfigūraciją.</value>
   </data>
@@ -1088,12 +1081,6 @@ Rankiniu būdu ištrinkite FallenStrap.exe iš diegimo vietos arba bandykite iš
   </data>
   <data name="Dialog.RegistryWriteError" xml:space="preserve">
     <value>„FallenStrap“ negali įrašyti į „Windows“ registrą. Greičiausiai trukdo antivirusinė programa ir sukelia problemų. Patikrinkite, ar nėra nieko, kas ribotų „FallenStrap“ veikimą.</value>
-  </data>
-  <data name="About.Supporters.Monthly" xml:space="preserve">
-    <value>Mėnesinis</value>
-  </data>
-  <data name="About.Supporters.OneOff" xml:space="preserve">
-    <value>Vienkartinis</value>
   </data>
   <data name="Menu.FallenStrap.Description" xml:space="preserve">
     <value>Konfigūruokite parinktis, susijusias su pačios „FallenStrap“ elgsena.</value>

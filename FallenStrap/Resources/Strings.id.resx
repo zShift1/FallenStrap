@@ -1015,12 +1015,6 @@ Ini mungkin atau tidak mungkin adalah masalah FallenStrap. Untuk mencari tahu, l
   <data name="Common.Loading" xml:space="preserve">
     <value>Memuat, mohon tunggu...</value>
   </data>
-  <data name="About.Supporters.Title" xml:space="preserve">
-    <value>Pendukung</value>
-  </data>
-  <data name="About.Supporters.Description" xml:space="preserve">
-    <value>Mereka merupakan orang-orang yang telah mendukung FallenStrap melalui Ko-fi. Terima kasih sebesar-besarnya kepada semua orang di sini! Setiap orang di sini diberi peringkat berdasarkan pemberiannya.</value>
-  </data>
   <data name="JsonManager.SettingsLoadFailed" xml:space="preserve">
     <value>Pengaturan Anda tidak dapat dimuat. Mereka telah diatur ulang ke setelan bawaan.</value>
   </data>
@@ -1088,12 +1082,6 @@ Tolong hapus FallenStrap.exe secara manual dari lokasi pemasangan atau coba untu
   </data>
   <data name="Dialog.RegistryWriteError" xml:space="preserve">
     <value>FallenStrap gagal menulis ke Registry Windows. Kemungkinan ada antivirus yang menghalangi dan menyebabkan masalah. Coba periksa jika ada yang mengganggu operasi FallenStrap.</value>
-  </data>
-  <data name="About.Supporters.Monthly" xml:space="preserve">
-    <value>Per bulan</value>
-  </data>
-  <data name="About.Supporters.OneOff" xml:space="preserve">
-    <value>Sekali</value>
   </data>
   <data name="Menu.FallenStrap.Description" xml:space="preserve">
     <value>Atur opsi yang terkait dengan perilaku FallenStrap itu sendiri.</value>

@@ -1,0 +1,38 @@
+<FallenStrapCustomBootstrapper Version="1" Height="320" Width="500" Theme="Light" Background="#00FF00" BorderBrush="Green" BorderThickness="1">
+	<TitleBar Title="GreenStrap" />
+	<Image Height="100" Width="100" Source="{Icon}" Margin="0,10,0,0" HorizontalAlignment="Center">
+		<Image.RenderTransform>
+			<SkewTransform AngleX="59" AngleY="219" CenterY="50" CenterX="30" />
+		</Image.RenderTransform>
+	</Image>
+	<TextBlock Text="Welcome to true customisation. We're green here!"
+		FontSize="15"
+		FontWeight="Bold"
+		Width="400" HorizontalAlignment="Center" Margin="0,100,0,0" Foreground="{TextFillColorPrimaryBrush}">
+		<TextBlock.RenderTransform>
+			<ScaleTransform ScaleY="4" CenterY="40" />
+			<RotateTransform Angle="10" />
+		</TextBlock.RenderTransform>
+	</TextBlock>
+	<TextBlock Name="StatusText" FontStyle="Oblique" Width="400" HorizontalAlignment="Center" Margin="0,150,0,0" Foreground="{TextFillColorPrimaryBrush}">
+		<TextBlock.RenderTransform>
+			<RotateTransform Angle="180" CenterX="150" CenterY="50" />
+		</TextBlock.RenderTransform>
+	</TextBlock>
+	<ProgressBar IsIndeterminate="True" Height="10" Width="400" HorizontalAlignment="Center" Margin="0,0,0,0" ZIndex="123">
+		<ProgressBar.RenderTransform>
+			<RotateTransform Angle="90" />
+		</ProgressBar.RenderTransform>
+	</ProgressBar>
+	<ProgressBar Name="PrimaryProgressBar" Height="10" Width="400" HorizontalAlignment="Center" Margin="0,200,0,0">
+		<ProgressBar.RenderTransform>
+			<SkewTransform AngleX="120" AngleY="20" CenterX="200" />
+		</ProgressBar.RenderTransform>
+	</ProgressBar>
+	<Button Name="CancelButton" Content="{Common.Cancel}" Height="40" Width="100" HorizontalAlignment="Center" Margin="0,225,0,0" BorderBrush="Blue" BorderThickness="4">
+		<Button.RenderTransform>
+			<RotateTransform Angle="50" CenterX="100" />
+			<ScaleTransform ScaleY="4" CenterY="0" />
+		</Button.RenderTransform>
+	</Button>
+</FallenStrapCustomBootstrapper>

@@ -1012,12 +1012,6 @@ Maaaring ito ay isang problema ng FallenStrap. Upang malaman, tingnan [itong hel
   <data name="Common.Loading" xml:space="preserve">
     <value>Naglo-loading, maaring maghintay...</value>
   </data>
-  <data name="About.Supporters.Title" xml:space="preserve">
-    <value>Mga Tagasupporta</value>
-  </data>
-  <data name="About.Supporters.Description" xml:space="preserve">
-    <value>Ito ang mga tao na nag suporta sa FallenStrap gamit ang Ko-fi. Maraming salamat para sa lahat ng nandito! Lahat ng tao na nandito ay naka rank gamit ang kanilang overall pledge.</value>
-  </data>
   <data name="JsonManager.SettingsLoadFailed" xml:space="preserve">
     <value>Ang settings mo ay hindi makaload. Naka-reset na sa dating pagsasaayos.</value>
   </data>
@@ -1085,12 +1079,6 @@ Pakialisin mismo ang FallenStrap.exe sa install location o subukan mong i-restar
   </data>
   <data name="Dialog.RegistryWriteError" xml:space="preserve">
     <value>Hindi makapagsulat sa Windows Registry ang FallenStrap. Malamang ang antivirus ay nakialam at nagdudulot ng mga isyu. Pakitignan para sigurado na walang anumang bagay na pumipigil sa operasyon ng FallenStrap.</value>
-  </data>
-  <data name="About.Supporters.Monthly" xml:space="preserve">
-    <value>Buwanan</value>
-  </data>
-  <data name="About.Supporters.OneOff" xml:space="preserve">
-    <value>Isang beses</value>
   </data>
   <data name="Menu.FallenStrap.Description" xml:space="preserve">
     <value>I-configure ang mga option na nanuugnay sa pag-uugali ng FallenStrap mismo.</value>

@@ -1014,13 +1014,6 @@ Dies könnte ein Problem mit FallenStrap sein, muss es aber nicht. Um es herausz
   <data name="Common.Loading" xml:space="preserve">
     <value>Wird geladen, bitte warten...</value>
   </data>
-  <data name="About.Supporters.Title" xml:space="preserve">
-    <value>Supporter</value>
-  </data>
-  <data name="About.Supporters.Description" xml:space="preserve">
-    <value>Dies sind die Personen die FallenStrap über Ko-fi unterstützt haben. Ein riesiges Dankeschön an alle hier!
-Jede Person hier ist nach ihrem gesamten Beitrag eingestuft.</value>
-  </data>
   <data name="JsonManager.SettingsLoadFailed" xml:space="preserve">
     <value>Deine Einstellungen konnten nicht geladen werden. Sie wurden auf die Standardkonfiguration zurückgesetzt.</value>
   </data>
@@ -1088,12 +1081,6 @@ Bitte lösche FallenStrap.exe manuell aus dem Installationsverzeichnis oder vers
   </data>
   <data name="Dialog.RegistryWriteError" xml:space="preserve">
     <value>FallenStrap kann keine Veränderungen im Windows Registry übernehmen. Ein Antivirenprogramm verursacht womöglich Komplikationen. Bitte stelle sicher, dass nichts FallenStrap an seinen Operationen einschränkt.</value>
-  </data>
-  <data name="About.Supporters.Monthly" xml:space="preserve">
-    <value>Monatlich</value>
-  </data>
-  <data name="About.Supporters.OneOff" xml:space="preserve">
-    <value>Einmalig</value>
   </data>
   <data name="Menu.FallenStrap.Description" xml:space="preserve">
     <value>Konfiguriere Optionen, welche sich auf das Verhalten von FallenStrap auswirken.</value>

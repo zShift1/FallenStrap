@@ -1011,13 +1011,6 @@ Bu, FallenStrap ile ilgili bir sorun olabilir veya olmayabilir. Bunu öğrenmek 
   <data name="Common.Loading" xml:space="preserve">
     <value>Yükleniyor, lütfen bekleyin...</value>
   </data>
-  <data name="About.Supporters.Title" xml:space="preserve">
-    <value>Destekçiler</value>
-  </data>
-  <data name="About.Supporters.Description" xml:space="preserve">
-    <value>Bu kişiler, FallenStrap'ı Ko-fi üzerinden desteklemiş kişilerdir. Buradaki herkese çok teşekkürler!
-Buradaki herkes genel vaatlerine göre sıralanmıştır.</value>
-  </data>
   <data name="JsonManager.SettingsLoadFailed" xml:space="preserve">
     <value>Ayarlarınız yüklenemedi. Ayarlarınız varsayılan yapılandırmaya sıfırlandı.</value>
   </data>
@@ -1085,12 +1078,6 @@ Lütfen manuel olarak yükleme yolundan FallenStrap.exe'yi silin veya sisteminiz
   </data>
   <data name="Dialog.RegistryWriteError" xml:space="preserve">
     <value>FallenStrap Windows Kayıt Defterine yazamıyor. Bir antivirüs yazılımı muhtemelen müdahale ediyor ve sorunlara neden oluyor. Lütfen FallenStrap'ın operasyonunu sınırlayan bir şeyin olmadığını kontrol edin.</value>
-  </data>
-  <data name="About.Supporters.Monthly" xml:space="preserve">
-    <value>Aylık</value>
-  </data>
-  <data name="About.Supporters.OneOff" xml:space="preserve">
-    <value>Tek sefer</value>
   </data>
   <data name="Menu.FallenStrap.Description" xml:space="preserve">
     <value>FallenStrap'ın davranışı ile ilgili ayarları yapılandırın.</value>
