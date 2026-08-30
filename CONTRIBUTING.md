@@ -14,7 +14,7 @@ Sé respetuoso. Este proyecto es mantenido por gente real en su tiempo libre. Di
 4. **Probá que compila** antes de abrir el PR:
 
    ```powershell
-   dotnet build Bloxstrap\Bloxstrap.csproj -c Release
+   dotnet build FallenStrap\FallenStrap.csproj -c Release
    ```
 
 5. Abrí un Pull Request hacia `main` describiendo:

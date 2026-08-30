@@ -2,8 +2,8 @@
 > El único lugar oficial para descargar FallenStrap es **este repositorio de GitHub**. Cualquier otra página que ofrezca descargas o se haga pasar por este proyecto no es nuestra.
 
 <p align="center">
-    <img src="https://github.com/FallenStrap/FallenStrap/raw/main/Images/FallenStrap-full-dark.png#gh-dark-mode-only" width="400">
-    <img src="https://github.com/FallenStrap/FallenStrap/raw/main/Images/FallenStrap-full-light.png#gh-light-mode-only" width="400">
+    <img src="https://github.com/zShift1/FallenStrap/raw/main/Images/FallenStrap-full-dark.png#gh-dark-mode-only" width="400">
+    <img src="https://github.com/zShift1/FallenStrap/raw/main/Images/FallenStrap-full-light.png#gh-light-mode-only" width="400">
 </p>
 
 <div align="center">
@@ -21,9 +21,9 @@
 
 ---
 
-FallenStrap es un reemplazo de terceros para el bootstrapper estándar de Roblox, con características y mejoras adicionales. Es un fork de [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap) con optimizaciones extra, tema claro y una experiencia renovada.
+FallenStrap es un reemplazo de terceros para el bootstrapper estándar de Roblox, con características y mejoras adicionales, un tema claro y una experiencia renovada.
 
-**Solo compatible con Windows 10/11 (x64).** ¿Tienes un problema o necesitas ayuda? [Abre un issue](https://github.com/FallenStrap/FallenStrap/issues).
+**Solo compatible con Windows 10/11 (x64).** ¿Tienes un problema o necesitas ayuda? [Abre un issue](https://github.com/zShift1/FallenStrap/issues).
 
 ## ✨ Características
 
@@ -38,7 +38,7 @@ FallenStrap es un reemplazo de terceros para el bootstrapper estándar de Roblox
 
 ## ⚙️ Instalación
 
-1. Descargá el `.exe` de la [última versión](https://github.com/FallenStrap/FallenStrap/releases/latest).
+1. Descargá el `.exe` de la [última versión](https://github.com/zShift1/FallenStrap/releases/latest).
 2. Ejecutalo. Configurá tus preferencias si querés, e instalá.
 3. Listo. Se añade al menú de Inicio, donde podés reabrir el menú y cambiar todo cuando quieras.
 
@@ -70,29 +70,29 @@ Es probable que Windows SmartScreen muestre un aviso la primera vez. Es normal e
 Requisitos: [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0) (o superior).
 
 ```powershell
-dotnet publish Bloxstrap\Bloxstrap.csproj -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true -p:IncludeNativeLibrariesForSelfExtract=true
+dotnet publish FallenStrap\FallenStrap.csproj -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true -p:IncludeNativeLibrariesForSelfExtract=true
 ```
 
 El ejecutable compilado queda en la carpeta de publicación, listo para instalar.
 
 ## 📄 Licencia
 
-FallenStrap es software libre bajo la licencia **MIT**. Es un fork de [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap), obra de [pizzaboxer](https://github.com/pizzaboxer) y su equipo, que conserva sus derechos conforme a la misma licencia.
+FallenStrap es software libre bajo la licencia **MIT**.
 
 ## 🙏 Agradecimientos
 
-- [pizzaboxer](https://github.com/pizzaboxer) y el equipo de [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap), el proyecto original
+- [pizzaboxer](https://github.com/pizzaboxer), autor del proyecto original del que deriva este lanzador
 - [lepoco](https://github.com/lepoco) y [WPF UI](https://github.com/lepoco/wpfui), la librería de UI usada en este proyecto
 
-[shield-repo-license]:  https://img.shields.io/github/license/FallenStrap/FallenStrap?color=981bfe
-[shield-repo-workflow]: https://img.shields.io/github/actions/workflow/status/FallenStrap/FallenStrap/ci-release.yml?branch=main&label=builds
-[shield-repo-releases]: https://img.shields.io/github/downloads/FallenStrap/FallenStrap/latest/total?color=7a39fb
-[shield-repo-latest]:   https://img.shields.io/github/v/release/FallenStrap/FallenStrap?color=7a39fb
+[shield-repo-license]:  https://img.shields.io/github/license/zShift1/FallenStrap?color=981bfe
+[shield-repo-workflow]: https://img.shields.io/github/actions/workflow/status/zShift1/FallenStrap/ci-release.yml?branch=main&label=builds
+[shield-repo-releases]: https://img.shields.io/github/downloads/zShift1/FallenStrap/latest/total?color=7a39fb
+[shield-repo-latest]:   https://img.shields.io/github/v/release/zShift1/FallenStrap?color=7a39fb
 [shield-platform]:      https://img.shields.io/badge/plataforma-Windows_10%2F11_%E2%80%93_x64-5a7dfa
 [shield-dotnet]:        https://img.shields.io/badge/.NET-6.0-512bd4
 
-[repo-url]:     https://github.com/FallenStrap/FallenStrap
-[repo-license]: https://github.com/FallenStrap/FallenStrap/blob/main/LICENSE
-[repo-actions]: https://github.com/FallenStrap/FallenStrap/actions
-[repo-releases]: https://github.com/FallenStrap/FallenStrap/releases
-[repo-latest]:  https://github.com/FallenStrap/FallenStrap/releases/latest
+[repo-url]:     https://github.com/zShift1/FallenStrap
+[repo-license]: https://github.com/zShift1/FallenStrap/blob/main/LICENSE
+[repo-actions]: https://github.com/zShift1/FallenStrap/actions
+[repo-releases]: https://github.com/zShift1/FallenStrap/releases
+[repo-latest]:  https://github.com/zShift1/FallenStrap/releases/latest

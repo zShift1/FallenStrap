@@ -6,7 +6,7 @@ FallenStrap toma la seguridad en serio. Si encontrás una vulnerabilidad, por fa
 
 **No abras un issue público** para reportar vulnerabilidades de seguridad. En su lugar:
 
-1. Andá a **Security → Report a vulnerability** en [este repositorio](https://github.com/FallenStrap/FallenStrap/security).
+1. Andá a **Security → Report a vulnerability** en [este repositorio](https://github.com/zShift1/FallenStrap/security).
 2. Incluí:
    - Una descripción clara del problema
    - Pasos para reproducirlo
