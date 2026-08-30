@@ -1,0 +1,52 @@
+<ui:UiPage x:Class="Bloxstrap.UI.Elements.Settings.Pages.LogViewerPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml"
+      mc:Ignorable="d"
+      d:DesignHeight="720"
+      d:DesignWidth="820"
+      Title="LogViewerPage"
+      Scrollable="False">
+    <Grid Margin="0,0,14,14">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0" Margin="0,0,0,10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="Auto" />
+            </Grid.ColumnDefinitions>
+
+            <StackPanel Grid.Column="0">
+                <TextBlock FontSize="16" FontWeight="SemiBold" Text="Registro de ejecución" />
+                <TextBlock FontSize="12" Text="Se actualiza en vivo mientras la aplicación trabaja." Foreground="{DynamicResource TextFillColorTertiaryBrush}" />
+            </StackPanel>
+
+            <ui:Button Grid.Column="1" Margin="0,0,8,0" Content="Abrir carpeta" Click="OpenLogsFolder" />
+            <ui:Button Grid.Column="2" Content="Copiar" Click="CopyLog" />
+        </Grid>
+
+        <Border Grid.Row="1" Background="#0C0C12" BorderBrush="#1E1E2C" BorderThickness="1" CornerRadius="10">
+            <ScrollViewer x:Name="LogScroll" Padding="12" VerticalScrollBarVisibility="Auto">
+                <ItemsControl x:Name="LogItems">
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <TextBlock
+                                Margin="0,1,0,1"
+                                FontFamily="Consolas"
+                                FontSize="12"
+                                Foreground="{Binding Converter={StaticResource LogLineBrushConverter}}"
+                                Text="{Binding}"
+                                TextWrapping="Wrap" />
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+            </ScrollViewer>
+        </Border>
+    </Grid>
+</ui:UiPage>

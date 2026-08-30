@@ -1,0 +1,60 @@
+name: Reporte de bug
+description: Algo no funciona como debería
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Gracias por reportar. Completá los campos para que podamos diagnosticar rápido.
+  - type: input
+    id: version
+    attributes:
+      label: Versión de FallenStrap
+      description: La versión que aparece en la ventana (ej. v1.1.1) o la línea "Compiled" del log.
+      placeholder: "v1.1.1"
+    validations:
+      required: true
+  - type: dropdown
+    id: windows
+    attributes:
+      label: Versión de Windows
+      options:
+        - Windows 11
+        - Windows 10
+        - Windows 10/11 (ARM)
+        - Otra
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Qué pasó
+      description: Descripción clara del problema y qué esperabas que pasara.
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Cómo reproducirlo
+      description: Pasos exactos para que alguien más lo vea.
+      placeholder: |
+        1. Abro FallenStrap
+        2. Le doy a jugar...
+        3. ...
+    validations:
+      required: true
+  - type: textarea
+    id: log
+    attributes:
+      label: Log de FallenStrap
+      description: El contenido del log más reciente en %LOCALAPPDATA%\FallenStrap\Logs\ (o la ruta de ese archivo).
+      render: shell
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Verificaciones
+      options:
+        - label: Probé con la última versión de FallenStrap
+          required: true
+        - label: Busqué si ya existía un issue sobre esto
+          required: true
