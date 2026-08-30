@@ -1,6 +1,9 @@
 name: CI (Release)
 on: [push, pull_request]
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: windows-latest
