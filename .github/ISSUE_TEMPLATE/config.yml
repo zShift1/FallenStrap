@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and help
+    url: https://discord.com/invite/TSs5mXrTD5
+    about: Ask questions and get help from the community on the FallenStrap Discord server.
+  - name: Report a security problem
+    url: https://github.com/zShift1/FallenStrap/security/advisories/new
+    about: Report security problems privately. Do not open a public issue for them.
+  - name: Documentation
+    url: https://github.com/zShift1/FallenStrap/wiki
+    about: Guides and answers to common questions.
